@@ -1,0 +1,2 @@
+# TiendaOG
+Proyecto tienda Gaming
