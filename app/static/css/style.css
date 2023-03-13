@@ -1,0 +1,74 @@
+body {
+  background-image: url(../imgs/Fondo.png);
+}
+
+.eslogan {
+  size: 500px;
+  height: 150px;
+  margin: 5%;
+  font-size: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bungee', cursive;
+  font-family: 'Labrada', serif;
+  font-family: 'Titan One', cursive;
+  color: #89b5f6;
+  text-align: center;
+  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, 5px -5px 0 #000, -5px 5px 0 #000; 
+  background-color: #00000012;
+  border-radius: 0px;
+  padding: 100px;  
+}
+
+.boton {
+  font-weight: 1000px;
+  color: rgb(255, 255, 255);
+  background-color: #00000084;
+  height: 160px;
+  width: 590px;
+  border-radius: 20px;
+  line-height: 100px;
+  margin: -90px auto 95px auto;  font-size: 94px;
+  font-style: italic;
+  font-family: 'Bungee', cursive;
+  font-family: 'Labrada', serif;
+  font-family: 'Titan One', cursive;
+  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, 5px -5px 0 #89b5f6, -5px 5px 0 #89b5f6; 
+
+}
+
+.boton:hover {
+  background-color: #5d5b5bce;
+  cursor: pointer;
+}
+
+.exp {
+  padding-top: 10px;
+  size: 500px;
+  height: 150px;
+  margin: 5%;
+  margin-top: 100px;
+  font-size: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  font-family: 'Bungee', cursive;
+  font-family: 'Labrada', serif;
+  font-family: 'Titan One', cursive;
+  color: #89b5f6;
+  text-align: center;
+  padding-top: 20px;
+    text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, 5px -5px 0 #000, -5px 5px 0 #000; 
+
+}
+
+.img{
+  width: 15%;
+  display: block;
+  margin: 50px auto 0 auto;
+  position: relative;
+  top: -50px;
+}
