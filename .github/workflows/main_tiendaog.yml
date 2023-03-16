@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TiendaOG'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4A226C025E94BCAA6ACD55068E6CE78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51AAFCE3D0C5408090B873E0521D2342 }}
